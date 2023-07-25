@@ -19,3 +19,6 @@ Correction commentée : https://youtu.be/UGf7biupddM
 
 03. Une liste triée contient elle un doublon ?<br>
 Correction commentée : https://youtu.be/ff-wINNYx6s
+
+04. Comment comparer deux textes, caractère par caractère<br>
+Correction commentée : https://youtu.be/zcRCAuaVYcY
