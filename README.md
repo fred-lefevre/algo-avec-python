@@ -22,3 +22,6 @@ Correction commentée : https://youtu.be/ff-wINNYx6s
 
 04. Comment comparer deux textes, caractère par caractère<br>
 Correction commentée : https://youtu.be/zcRCAuaVYcY
+
+05.  Comment compter le nombre d'occurrences d'une lettre dans un mot<br>
+Correction commentée : https://youtu.be/oourqcW36-M
