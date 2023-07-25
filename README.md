@@ -7,11 +7,12 @@
 - Tout le code est fourni dans le présent dépôt `GitHub` et toutes les explications associées sont fournies dans `YouTube`.
 
 ## 👀 Exercices
-Les fichiers de l'exercice numéro NN sont contenus dans le dossier `exerice-NN`.
-L'énoncé est dans le fichier `exercice-01-enonce.pdf`.
+Les fichiers de l'exercice numéro NN sont contenus dans le dossier `exerice-NN`.<br>
+L'énoncé est dans le fichier `exercice-01-enonce.pdf`.<br>
 La correction dans le fichier `exercice-NN-correction.py`.
 
-01. Calculer la moyenne des entiers contenu dans un tableau
+01. Calculer la moyenne des entiers contenu dans un tableau<br>
 Correction commentée : https://youtu.be/gmkCiB8WOhU
 
-
+02. Trouver le maximum d'une liste de nombres<br>
+Correction commentée : https://youtu.be/UGf7biupddM
