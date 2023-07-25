@@ -6,6 +6,8 @@
 
 - Tout le code est fourni dans le présent dépôt `GitHub` et toutes les explications associées sont fournies dans `YouTube`.
 
+- L'URL de la playlist des vidéos est : https://www.youtube.com/playlist?list=PLQsTrO2pHmL7ucraz-APH3PtHT7_ctoE1
+
 ## 👀 Exercices
 Les fichiers de l'exercice numéro NN sont contenus dans le dossier `exerice-NN`.<br>
 L'énoncé est dans le fichier PDF `exercice-NN-enonce.pdf`.<br>
