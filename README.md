@@ -32,3 +32,6 @@ Correction commentée : https://youtu.be/h5mqi2rqHpo
 
 07. Comment mettre en œuvre une fonction récursive. Comment décomposer un problème. Comment concevoir un script python<br>
 Correction commentée : https://youtu.be/A8Dr4FS4350
+
+08. Trouver tous les nombres positifs contenus dans un tableau en utilisant une pile<br>
+Correction commentée : https://youtu.be/h07GM8dmgDU
