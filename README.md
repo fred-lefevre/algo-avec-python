@@ -8,8 +8,10 @@
 
 - L'URL de la playlist des vidéos est : https://www.youtube.com/playlist?list=PLQsTrO2pHmL7ucraz-APH3PtHT7_ctoE1
 
+- Le fichier `Algorithmique-avec-Python.pdf` contient les URL des vidéos de chaque exercice.
+
 ## 👀 Exercices
-Les fichiers de l'exercice numéro NN sont contenus dans le dossier `exerice-NN`.<br>
+Les fichiers de l'exercice numéro NN sont contenus dans le dossier `exercice-NN`.<br>
 L'énoncé est dans le fichier PDF `exercice-NN-enonce.pdf`.<br>
 Éventuellement, le fichier Python `exercice-NN-enonce.py` qui complète l'énoncé.<br>
 La correction dans le fichier `exercice-NN-correction.py`.
